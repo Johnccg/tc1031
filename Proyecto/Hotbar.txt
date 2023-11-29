@@ -1,0 +1,40 @@
+ID: 136
+Nombre: Chain Lantern
+Cantidad: 46
+
+ID: 113
+Nombre: Magic Missile
+Cantidad: 9
+
+ID: 187
+Nombre: Flipper
+Cantidad: 30
+
+ID: 3
+Nombre: Stone Block
+Cantidad: 7
+
+ID: 190
+Nombre: Blade of Grass
+Cantidad: 25
+
+ID: 156
+Nombre: Cobalt Shield
+Cantidad: 55
+
+ID: 174
+Nombre: Hellstone
+Cantidad: 27
+
+ID: 137
+Nombre: Green Brick
+Cantidad: 11
+
+ID: 67
+Nombre: Vile Powder
+Cantidad: 51
+
+ID: 210
+Nombre: Vine
+Cantidad: 27
+

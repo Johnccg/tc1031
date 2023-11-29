@@ -1,0 +1,200 @@
+ID: 136
+Nombre: Chain Lantern
+Cantidad: 46
+
+ID: 113
+Nombre: Magic Missile
+Cantidad: 9
+
+ID: 187
+Nombre: Flipper
+Cantidad: 30
+
+ID: 3
+Nombre: Stone Block
+Cantidad: 7
+
+ID: 190
+Nombre: Blade of Grass
+Cantidad: 25
+
+ID: 156
+Nombre: Cobalt Shield
+Cantidad: 55
+
+ID: 174
+Nombre: Hellstone
+Cantidad: 27
+
+ID: 137
+Nombre: Green Brick
+Cantidad: 11
+
+ID: 67
+Nombre: Vile Powder
+Cantidad: 51
+
+ID: 210
+Nombre: Vine
+Cantidad: 27
+
+ID: 27
+Nombre: Acorn
+Cantidad: 9
+
+ID: 14
+Nombre: Silver Ore
+Cantidad: 81
+
+ID: 90
+Nombre: Iron Helmet
+Cantidad: 63
+
+ID: 12
+Nombre: Copper Ore
+Cantidad: 9
+
+ID: 2
+Nombre: Dirt Block
+Cantidad: 41
+
+ID: 153
+Nombre: Necro Greaves
+Cantidad: 83
+
+ID: 30
+Nombre: Dirt Wall
+Cantidad: 32
+
+ID: 139
+Nombre: Pink Brick
+Cantidad: 25
+
+ID: 219
+Nombre: Phoenix Blaster
+Cantidad: 41
+
+ID: 234
+Nombre: Meteor Shot
+Cantidad: 35
+
+ID: 122
+Nombre: Molten Pickaxe
+Cantidad: 98
+
+ID: 76
+Nombre: Copper Greaves
+Cantidad: 72
+
+ID: 96
+Nombre: Musket
+Cantidad: 55
+
+ID: 44
+Nombre: Demon Bow
+Cantidad: 28
+
+ID: 139
+Nombre: Pink Brick
+Cantidad: 69
+
+ID: 131
+Nombre: Red Brick
+Cantidad: 76
+
+ID: 28
+Nombre: Lesser Healing Potion
+Cantidad: 32
+
+ID: 215
+Nombre: Whoopie Cushion
+Cantidad: 63
+
+ID: 60
+Nombre: Vile Mushroom
+Cantidad: 79
+
+ID: 107
+Nombre: Silver Chandelier
+Cantidad: 17
+
+ID: 100
+Nombre: Shadow Greaves
+Cantidad: 82
+
+ID: 51
+Nombre: Jester's Arrow
+Cantidad: 19
+
+ID: 90
+Nombre: Iron Helmet
+Cantidad: 38
+
+ID: 24
+Nombre: Wooden Sword
+Cantidad: 99
+
+ID: 144
+Nombre: Silver Brick Wall
+Cantidad: 40
+
+ID: 170
+Nombre: Glass
+Cantidad: 9
+
+ID: 202
+Nombre: White Phaseblade
+Cantidad: 71
+
+ID: 232
+Nombre: Molten Breastplate
+Cantidad: 3
+
+ID: 141
+Nombre: Gold Brick
+Cantidad: 29
+
+ID: 6
+Nombre: Iron Shortsword
+Cantidad: 92
+
+ID: 17
+Nombre: Gold Watch
+Cantidad: 34
+
+ID: 155
+Nombre: Muramasa
+Cantidad: 16
+
+ID: 233
+Nombre: Molten Greaves
+Cantidad: 34
+
+ID: 210
+Nombre: Vine
+Cantidad: 91
+
+ID: 207
+Nombre: Lava Bucket
+Cantidad: 30
+
+ID: 170
+Nombre: Glass
+Cantidad: 74
+
+ID: 186
+Nombre: Breathing Reed
+Cantidad: 72
+
+ID: 119
+Nombre: Flamarang
+Cantidad: 13
+
+ID: 191
+Nombre: Thorn Chakram
+Cantidad: 1
+
+ID: 198
+Nombre: Blue Phaseblade
+Cantidad: 21
+
