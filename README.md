@@ -1,5 +1,5 @@
 # tc1031
 
-problema 1:
-problema 2:
-problema 3:
+problema 1: https://youtu.be/rjP3QQO0yeA
+problema 2: https://youtu.be/vsQKpzUREyE
+problema 3: https://youtu.be/SKEuoobX7HQ
